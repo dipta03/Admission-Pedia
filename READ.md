@@ -3,13 +3,9 @@ One of the most complex web projects I have ever done. This project is intended 
 The can easily find out their suitable universities based on their GPA.
 Also they can create a great community by creating post, replying and many more.
 
-To run or deploy this project please read the Instruction.txt file very carefully.
+To run or deploy this project please follow the instruction
 ## Instruction
 This is a laravel project. So first install all the necessary laravel dependencies.
-To know how to install laravel you can find everything in this repository. 
-Git Link : ' https://github.com/Yunus0or1/Guidelines-How_TO/blob/master/How%20to%20install%20Laravel  '
-As you are cloning this project from Github read how to reinstall a project after downloading from the git from
-the text file.
 
 Load admissionpedia_university.sql in xampp or any mySql Database.
 Okay So you have installed all the dependencies.And also you have started your project by this IP :localhost:8000 
